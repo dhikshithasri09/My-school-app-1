@@ -1,0 +1,50 @@
+body {
+    text-align: left;
+}
+
+#school {
+    width: 100%;
+    height: 800px;
+}
+
+#marqueeStyle {
+    background-color: lightcyan;
+}
+
+#details {
+    margin-left: -20px;
+}
+
+.travel_mainDiv img {
+    height: 200px;
+    width: 800px;
+}
+
+#travel {
+   text-align: center;
+}
+
+#contact {
+    text-align: center;
+}
+
+#achievements {
+    text-align: center;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_head p {
+    float: right;
+}
